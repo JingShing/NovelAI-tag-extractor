@@ -14,6 +14,8 @@ It can also get otehr image info from other AI image.
   * import image you like it will extract info and show in text box.
 * save
   * it will save a same file name as your image txt file in the same folder of your exe.
+* cmd(command or linux)
+  * using python activate ```ai_tag_extractor_cmd.py``` then input the image file path you want to get info.
 # Sample Image
 It is spawn by Stable diffusion. And it is sample for showcase below.
 ## Stable-diffusion image
