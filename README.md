@@ -49,3 +49,5 @@ It is spawn by Stable diffusion. And it is sample for showcase below.
 * add clear button
 * add status
 * ![add_clear](image/add_clear.png)
+## ver 1.2.1
+* add ```ai_tag_extractor_cmd.py``` to use this tool in cmd or linux
