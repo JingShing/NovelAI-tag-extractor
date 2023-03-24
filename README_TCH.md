@@ -49,3 +49,5 @@
 * 新增清除按鈕
 * 新增狀態提示
 * ![add_clear](image/add_clear.png)
+## 版本 1.2.1
+* 新增 ```ai_tag_extractor_cmd.py``` 可以在 cmd 和 linux 環境使用
